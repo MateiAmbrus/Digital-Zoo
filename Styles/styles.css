@@ -1,0 +1,111 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin:0;
+}
+header{
+    background-color:#00304a ;
+    color: white;
+    text-align: center;
+    border-bottom:3px solid black  
+}
+h1{
+    margin: 0;
+    font-size: 60px;
+    padding: 0.2em;
+}
+h3{
+    margin: 0;
+    font-size: 30px;
+    padding-bottom: 0.7em;
+}
+svg{
+    width:100%;
+    height:100%;
+}
+path#path2337,path#path2351,
+path#path2349,path#path2347,
+path#path2361,path#path2353,
+path#path2335,path#path2341,
+path#path2343,path#path2345,
+path#path2361,path#path2359,
+path#path2357,path#path2365,
+path#path2363,path#path2369,
+path#path2367,path#path2355{
+    transition:0.5s;
+    fill: #ff892f;
+}
+path#path2337:hover,path#path2351:hover,
+path#path2349:hover,path#path2347:hover,
+path#path2361:hover,path#path2353:hover,
+path#path2335:hover,path#path2341:hover,
+path#path2343:hover,path#path2345:hover,
+path#path2361:hover,path#path2359:hover,
+path#path2357:hover,path#path2365:hover,
+path#path2363:hover,path#path2369:hover,
+path#path2367:hover,path#path2355:hover{
+    transition:0.5s;
+    fill: rgb(185, 100, 34);
+}
+path#path2372,path#path2374,path#path2376{
+    transition:0.5s;
+    fill:#fff000;
+}
+path#path2372:hover,path#path2374:hover,path#path2376:hover{
+    transition:0.5s;
+    fill:#928800;
+}
+path#path2330,path#path2332{
+    transition:0.5s;
+    fill:#38720d;
+}
+path#path2330:hover,path#path2332:hover{
+    transition:0.5s;
+    fill:#1e3c08;
+
+}
+path#path2399,
+path#path2387,path#path2397,
+path#path2393,path#path2395,
+path#path2391,path#path2389,
+path#path2385,path#path2383,
+path#path2381,path#path2379{
+    transition:0.5s;
+    fill:#dd3a3a;
+}
+path#path2387:hover,path#path2399:hover,path#path2397:hover,
+path#path2393:hover,path#path2395:hover,
+path#path2391:hover,path#path2389:hover,
+path#path2385:hover,path#path2383:hover,
+path#path2381:hover,path#path2379:hover{
+    transition:0.5s;
+    fill:#962727;
+}
+path#path2404,path#path2402{
+    transition:0.5s;
+    fill:#f408ff;
+}
+path#path2404:hover,path#path2402:hover{
+    transition:0.5s;
+    fill:#a405ac;
+}
+path#path2423,path#path2421,
+path#path2419,path#path2417,
+path#path2413,path#path2411,
+path#path2409,path#path2407,
+path#path2415{
+    transition:0.5s;
+    fill:#00ffec;
+}
+path#path2423:hover,path#path2421:hover,
+path#path2419:hover,path#path2417:hover,
+path#path2413:hover,path#path2411:hover,
+path#path2409:hover,path#path2407:hover,
+path#path2415:hover{
+    transition:0.5s;
+    fill:#00948a;
+}
+svg#svg2321{
+    background-color: #00304a;
+}
